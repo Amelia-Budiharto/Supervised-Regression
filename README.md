@@ -1,2 +1,2 @@
-# Supervised-Regression
-Supervised Regression Projects
+# Supervised-Machine Learning
+Supervised Machine Learning Projects
